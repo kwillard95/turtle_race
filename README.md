@@ -10,4 +10,4 @@
 
 ### Details
 
-### This is an exercise leveraging the existing turtle module, enabling one to explore the different features within a `Turtle` class.
+#### This is an exercise leveraging the existing turtle module, enabling one to explore the different features within a `Turtle` class.
